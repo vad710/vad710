@@ -1,7 +1,7 @@
 # Vinny DaSilva
 
 ## Current Bio...
-Life-long learner and teacher. Highly **technical product manager** and **software engineer** with a passion for connecting and empowering developers and customers alike in **augmented and virtual reality** development (aka **Spatial Computing**). Relationship-focused, interactive leadership style, focused on delighting end-users through simple, elegant solutions to complex technical challenges. Collaborative, thoughtful, solutions-oriented approach to customer needs, team challenges, and overall industry trajectory. Author of “[Computer Vision for Busy Developers](https://bitly.com/CV4BusyDevs)” article series posted on Medium. 
+Life-long learner and teacher. Highly **technical product manager** and **software engineer** with a passion for connecting and empowering developers and customers alike in **augmented and virtual reality** development (aka **Spatial Computing**). Relationship-focused, interactive leadership style, focused on delighting end-users through simple, elegant solutions to complex technical challenges. Collaborative, thoughtful, solutions-oriented approach to customer needs, team challenges, and overall industry trajectory.
 
 ## Working On...
 😎 - DevRel Manager with **[Lenovo ThinkReality](https://techtoday.lenovo.com/ww/en/solutions/thinkreality)** - helping developers build AR and VR solutions on ThinkReality Platform and Devices
@@ -20,6 +20,7 @@ Life-long learner and teacher. Highly **technical product manager** and **softwa
 ## Contacing Me...
 * ... to say "Hi" 👋 on Twitter [@vad710](https://twitter.com/vad710)
 * ... to talk about work 💼 on [LinkedIn](https://www.linkedin.com/in/vinnydasilva/) (I try to keep this updated)
+* ... to ask me questions about Computer Vision 📹 on [Medium](https://medium.com/@vad710)
 
 ## Other Info...
 🤔 I’m currently interested in Computer Vision, Artificial Inteligience, Machine Learning - let's chat!
