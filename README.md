@@ -22,7 +22,7 @@ Life-long learner and teacher. Highly **technical product manager** and **softwa
 🍞 - Baking is my latest hobbie - I enjoy sharing bread with friends!
 
 ## Contacing Me...
-* ... to say "Hi" 👋 on Twitter [@vad710](https://twitter.com/vad710)
+* ... to say "Hi" 👋 on ~Twitter [@vad710](https://twitter.com/vad710)~ BlueSky [@vinnydasilva.bsky.social](https://bsky.app/profile/vinnydasilva.bsky.social)
 * ... to talk about work 💼 on [LinkedIn](https://www.linkedin.com/in/vinnydasilva/) (I try to keep this updated)
 * ... to ask me questions about Computer Vision 📹 on [Medium](https://medium.com/@vad710)
 
